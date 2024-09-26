@@ -20,3 +20,29 @@ EasyGitClone 是一个简单的批处理脚本，允许用户通过 Git 克隆�
 ## 贡献
 
 欢迎任何贡献！请提出问题或提交拉取请求。
+
+---------------------------------------------------------------------------------------------------------------------
+
+# EasyGitClone
+
+EasyGitClone is a simple batch script that allows users to clone projects using Git, supporting both cloning with submodules and updating submodules for already cloned projects.
+
+## Features
+
+- **Clone Projects**: Supports cloning projects with submodules.
+- **Update Submodules**: Updates submodules for already cloned projects.
+
+## Usage
+
+1. Download the script to your local machine.
+2. Run `EasyGitClone.bat`.
+3. Follow the prompts to enter your choice and necessary information.
+
+## License
+
+This project is licensed under the [GPL-3.0 License](https://opensource.org/licenses/GPL-3.0).
+
+## Contributing
+
+Contributions are welcome! Please raise issues or submit pull requests.
+
